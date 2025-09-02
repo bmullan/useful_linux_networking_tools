@@ -22,3 +22,7 @@ A web-based tool for generating WireGuard VPN configurations with cryptographica
 - Web Application
 - can be self-hosted
   
+# ***[WireGuard AllowedIPs Calculator](https://www.procustodibus.com/blog/2021/03/wireguard-allowedips-calculator/)***
+### **Description**
+A Web-based tool to calculate *complex **AllowedIPs** settings for a WireGuard peer*, by subtracting the “disallowed”    
+IP address blocks from the “allowed” IP address blocks
