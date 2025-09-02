@@ -29,6 +29,6 @@ IP address blocks from the “allowed” IP address blocks
 
 ## ***[Generate IPv6 Address](https://github.com/althea-net/generate-ipv6-address)***
 ### **Description**
-Generate IPv6 addresses from a given Prefix and either:
+Generate IPv6 addresses from a given Prefix *and either*:
 - a given MAC-48 address (an Ethernet hardware address) 
 - or a randomly drawn Host number.
