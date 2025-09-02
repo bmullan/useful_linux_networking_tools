@@ -26,3 +26,9 @@ A web-based tool for generating WireGuard VPN configurations with cryptographica
 ### **Description**
 A Web-based tool to calculate *complex **AllowedIPs** settings for a WireGuard peer*, by subtracting the “disallowed”    
 IP address blocks from the “allowed” IP address blocks
+
+# ***[Generate IPv6 Address](https://github.com/althea-net/generate-ipv6-address)***
+### **Description**
+Generate IPv6 addresses from a given Prefix and either:
+- a given MAC-48 address (an Ethernet hardware address) 
+- or a randomly drawn Host number.
