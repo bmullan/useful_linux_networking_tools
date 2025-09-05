@@ -8,6 +8,10 @@ CLI Utility to generate VXLAN over Wireguard Mesh SD-WAN configurations
 - python3 application
 - self-hosted
 
+## ***[Wireguard AllowedIPs Calculator](https://www.procustodibus.com/blog/2021/03/wireguard-allowedips-calculator/)***
+Use this web app when you *need to calculate* **complex** *AllowedIPs* settings for a WireGuard peer, by subtracting 
+the “*disallowed*” IP address blocks from the “*allowed*” IP address blocks
+
 ## ***[Open Virtual Switch (OVS) Mesh Network Bash Script Generator](https://laraget.com/blog/ovs-mesh-script-generator)***
  
 ### **Description**
